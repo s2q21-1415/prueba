@@ -8,7 +8,7 @@
 #### Option 1.
 #### From the Codio Dashboard, create a new project and select the Git Tab
 #### and then paste the following URL into the box
-####          https://gist.github.com/33d11ece400a74449692.git
+####          https://gist.github.com/4aa73a3258ef2c5538aa.git
 #### Give your project a name and click Create.
  
 #### Option 2. 
