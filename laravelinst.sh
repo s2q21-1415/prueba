@@ -51,7 +51,7 @@ echo -e '\E[1;33;44m' "rename server.php in the root of the project to index.php
 mv server.php index.php
 
 echo -e '\E[1;33;44m' "Remove script file"; tput sgr0
-re laravelinst.sh 
+rm laravelinst.sh 
 
 
 echo -e '\E[1;33;44m' "......Laravel Installed!"; tput sgr0
