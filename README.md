@@ -1,12 +1,22 @@
-##Running Laravel in Codio##
+#Laravel (4.2)
 
-To run the Laravel skeleton project
+##Using the Pack
+To use the Pack, we created 2 menu options, which you can find on the right of the menu. These menus can be configured in the `.codio` file.
 
-1. Go to the Preview menu - right most Codio menu.
-1. From the drop down menu, select `Preview`.
+1. **PHP Version** : This will show you the version of PHP installed.
+1. **Preview** : This previews your app.
 
 **Note:** Do not set the 'Inside Codio' option as this Laravel scaffold does 
 not allow it to run in an IFrame and incorrect behaviour may also result.
+
+##Accessing the application
+To access your application from a browser, you can use the menu option described above. The url of your Laravel project can be found in the `Project->Box Info` menu and will look something like this
+
+```
+https://vital-ego.box.codio.io:9500/
+```
+##How the Pack was prepared
+This Starter Pack was built on the `LAMP + Composer` Codio Certified Stack.
 
 ## Laravel PHP Framework
 
